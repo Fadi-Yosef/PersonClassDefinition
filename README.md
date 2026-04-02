@@ -11,7 +11,7 @@ The project shows:
 - reusable person processing logic
 - Stream API operations like `filter`, `map`, `count`, `sorted`, and `findFirst`
 
-## Classes we created
+## Classes
 
 - `App`
   Main class. Contains sample data and runs the exercise examples.
